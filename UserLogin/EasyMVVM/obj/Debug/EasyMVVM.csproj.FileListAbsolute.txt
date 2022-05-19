@@ -1,0 +1,15 @@
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\bin\Debug\EasyMVVM.exe.config
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\bin\Debug\EasyMVVM.exe
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\bin\Debug\EasyMVVM.pdb
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\App.g.cs
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.cache
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.lref
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\MainWindow.baml
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.g.resources
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.Properties.Resources.resources
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.csproj.GenerateResource.cache
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.exe
+C:\Users\Flux\Desktop\UserLogin\EasyMVVM\obj\Debug\EasyMVVM.pdb

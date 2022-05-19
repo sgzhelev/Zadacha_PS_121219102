@@ -1,0 +1,214 @@
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csprojAssemblyReference.cache
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+D:\ПС\Projects\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+D:\ПС\Projects\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.ResolveComReference.cache
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Flux\Desktop\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\log.txt
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\log.txt
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.ResolveComReference.cache
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Kiro\Университет\VI семестър\ПС\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\log.txt
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.ResolveComReference.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Kiro\Университет\VI семестър\ПС\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\log.txt
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\log.txt
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.exe
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.deps.json
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\UserLogin.exe.config
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\bin\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\Interop.TDCLib.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.g.cs
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\AdminStartupWindow.baml
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.g.resources
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.pdb
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\StudentInfoSystem\obj\Debug\netcoreapp3.1\StudentInfoSystem.genruntimeconfig.cache

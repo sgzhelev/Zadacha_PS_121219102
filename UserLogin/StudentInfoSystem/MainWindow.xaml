@@ -1,0 +1,149 @@
+﻿<Window x:Class="StudentInfoSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Closing="MainWindow_Closing"
+        Title="Студентска информационна система" Height="427" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="MainGrid" HorizontalAlignment="Center" Width="800" Height="411" VerticalAlignment="Bottom">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.Row="0" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <GroupBox Header="Снимка" VerticalAlignment="Top"  HorizontalAlignment="Center" Margin="10,5,0,0" Grid.Column="0" Grid.Row="0" >
+                <Image x:Name="imgStudent" Width="140" Height="180" Margin="5,5,5,5" Source="/avatar.png" Stretch="Fill" />
+            </GroupBox>
+            <Button x:Name="btnLogout" Grid.Column="0" Grid.Row="1" Width="140" Height="30" VerticalAlignment="Top" Margin="0,10,0,0" Click="btnLogout_Click">Logout</Button>
+        </Grid>
+
+        <GroupBox Header="Лични данни"  VerticalAlignment="Top"  HorizontalAlignment="Stretch" Margin="10,5,10,0" Grid.Row="0" Grid.Column="1">
+            <Grid x:Name="PersonalData">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                </Grid.RowDefinitions>
+                <Label Content="Име:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="0"></Label>
+                <TextBox x:Name="tbFirstName" Text="{Binding FirstName, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="0"></TextBox>
+                <Label Content="Презиме:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="1"></Label>
+                <TextBox x:Name="tbSurName" Text="{Binding SurName, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="1"></TextBox>
+                <Label Content="Фамилия:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="2"></Label>
+                <TextBox x:Name="tbLastName" Text="{Binding LastName, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="2"></TextBox>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Студентска информация" VerticalAlignment="Top"  HorizontalAlignment="Stretch" Margin="10,10,10,5" Grid.Column="1" Grid.Row="1">
+            <Grid x:Name="StudentInfo" Height="176">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="60"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                    <RowDefinition Height="Auto" MinHeight="35"/>
+                </Grid.RowDefinitions>
+                <Label Content="Факултет:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="0"></Label>
+                <ComboBox Name="tbFacultee" ItemsSource="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}, Path=FaculteeList}" SelectedItem="{Binding Path=Facultee}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="0"></ComboBox>
+                <!--<TextBox x:Name="tbFacultee" Text="{Binding Facultee, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="0" ></TextBox>-->
+                <Label Content="Специалност:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="1"></Label>
+                <TextBox x:Name="tbSpecialtee" Text="{Binding Specialtee, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="1"></TextBox>
+                <Label Content="ОКС:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="2"></Label>
+                <TextBox x:Name="tbDegree" Text="{Binding Degree, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="2"></TextBox>
+                <Label Content="Статус:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="3"></Label>
+                <ComboBox Name="tbStatusComboBox" ItemsSource="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}, Path=StudStatusChoices}" SelectedItem="{Binding Path=Status}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="3"></ComboBox>
+                <!--<TextBox x:Name="tbStatusComboBox" Text="{Binding Status, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="3" TextChanged="tbStatusComboBox_TextChanged"></TextBox>-->
+                <Label Content="Фак. номер:" VerticalAlignment="Center" Grid.Column="0" Grid.Row="4"></Label>
+                <TextBox x:Name="tbFacNumber" Text="{Binding FacNumber, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="1" Grid.Row="4"></TextBox>
+                <Label Content="Курс:" VerticalAlignment="Center" Grid.Column="2" Grid.Row="0"></Label>
+                <TextBox x:Name="tbCourse" Text="{Binding Course, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="3" Grid.Row="0"></TextBox>
+                <Label Content="Поток:" VerticalAlignment="Center" Grid.Column="2" Grid.Row="1"></Label>
+                <TextBox x:Name="tbPotok" Text="{Binding Stream, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="3" Grid.Row="1"></TextBox>
+                <Label Content="Група:" VerticalAlignment="Center" Grid.Column="2" Grid.Row="2"></Label>
+                <TextBox x:Name="tbGroup" Text="{Binding Group, Mode=TwoWay}" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="25" Grid.Column="3" Grid.Row="2"></TextBox>
+            </Grid>
+        </GroupBox>
+        <Grid Grid.Row="2" Grid.Column="1" Height="48" VerticalAlignment="Top" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="bntClear" Grid.Column="1" Margin="5,5,5,5" Click="bntClear_Click" ToolTipService.ShowDuration ="5000" >Clear
+                <Button.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Clear</TextBlock>
+                            <TextBlock>Clears the users info.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+            </Button>
+            <Button x:Name="bntShowData" Grid.Column="2" Margin="5,5,5,5" Click="bntShowData_Click" ToolTipService.ShowDuration ="5000" >Show data
+                <Button.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Show data</TextBlock>
+                            <TextBlock>Displays the users info.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+            </Button>
+            <Button x:Name="bntEnableAll" Grid.Column="3" Margin="5,5,5,5" Click="bntEnableAll_Click" ToolTipService.ShowDuration ="5000" >Enable all
+                <Button.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Eneble all</TextBlock>
+                            <TextBlock>Enebles all text boxes.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+            </Button>
+            <Button x:Name="bntDisableAll" Grid.Column="4" Margin="5,5,5,5" Click="bntDisableAll_Click" ToolTipService.ShowDuration ="5000" >Disable all
+                <Button.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Disable all</TextBlock>
+                            <TextBlock>Disables all text boxes.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+            </Button>
+        </Grid>
+        <Button Content="Load User Image" HorizontalAlignment="Center" Margin="0,133,0,0" Grid.Row="1" VerticalAlignment="Top" Height="32" Width="142"  Click="btnLoad_Click_1" ToolTipService.ShowDuration ="5000" >
+            <Button.ToolTip>
+                <ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Load Image</TextBlock>
+                        <TextBlock>Opens the file explorer in wich the you must navigate to your user picture.</TextBlock>
+                    </StackPanel>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+</Window>

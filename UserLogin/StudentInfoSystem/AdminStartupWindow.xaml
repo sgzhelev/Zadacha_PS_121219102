@@ -1,0 +1,46 @@
+﻿<Window x:Class="StudentInfoSystem.AdminStartupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="AdminStartupWindow" Height="450" Width="850">
+    <Grid>
+        <TabControl x:Name="tcAdminView" SelectedIndex="1">
+            <TabItem Header="Преглед на студенти">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="lvStudents" IsSynchronizedWithCurrentItem="True" SelectionChanged="lvStudents_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Фак. №" DisplayMemberBinding="{Binding FacNumber}" Width="100"/>
+                                <GridViewColumn Header="Име" DisplayMemberBinding="{Binding FullName}" Width="240"/>
+                                <GridViewColumn Header="ОКС" DisplayMemberBinding="{Binding OKS}" Width="95"/>
+                                <GridViewColumn Header="факултет" DisplayMemberBinding="{Binding Facultee}" Width="95"/>
+                                <GridViewColumn Header="Специалност" DisplayMemberBinding="{Binding Specialty}" Width="110"/>
+                                <GridViewColumn Header="Поток" DisplayMemberBinding="{Binding Potok}" Width="60"/>
+                                <GridViewColumn Header="Група" DisplayMemberBinding="{Binding Group}" Width="60"/>
+                                <GridViewColumn Header="Курс" DisplayMemberBinding="{Binding Course}" Width="60"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Преглед на потребители">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="lvSystemUsers" AllowDrop="False">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}" Width="55"/>
+                                <GridViewColumn Header="Име" DisplayMemberBinding="{Binding Name}" Width="280"/>
+                                <GridViewColumn Header="Тип потребител" Width="280" DisplayMemberBinding="{Binding UserRole}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

@@ -1,0 +1,49 @@
+C:\Users\bobii\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\bobii\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\bobii\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\bobii\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\bobii\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\bobii\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\bobii\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
+D:\ПС\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+D:\ПС\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+D:\ПС\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+D:\ПС\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+D:\ПС\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\ПС\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+D:\ПС\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\Flux\Desktop\UserLogin\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\Flux\Desktop\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Flux\Desktop\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\Flux\Desktop\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Flux\Desktop\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+C:\Users\Flux\Desktop\UserLogin\UserLogin\bin\Debug\log.txt
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\log.txt
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\Admin\Desktop\KursovaRabotaPS (1)\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\log.txt
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\Admin\Desktop\1\KursovaRabotaPS\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
